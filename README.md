@@ -1,2 +1,4 @@
-# IntroduccionCienciaDeDatos-DATCOM-UGR-1819
-Análisis de regresión y clasificación de la asignatura Introducción a Ciencia de Datos del master DATCOM de la UGR.
+# Introducción a la Programación para Ciencia de Datos
+## Master en Ciencia de Datos e Ingeniería de Computadores - UGR
+
+Análisis de distintos datasets de regresión y clasificación correspondientes con las entregas de evaluación continua de la asignatura y la entrega final, dónde se incluyen tareas de preprocesamiento de datos.
